@@ -9,7 +9,7 @@ Aplikasi desktop buat scan dokumen dari foto. Bisa deteksi area dokumen otomatis
 ---
 
 ### 🎬 Demo Singkat
-
+https://github.com/user-attachments/assets/596316b3-731a-4ca1-9fda-821a5d7af141
 
 ---
 
