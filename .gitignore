@@ -1,0 +1,28 @@
+# Folder Virtual Environment
+venv/
+/venv/
+
+# File cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# File-file gambar
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.gif
+
+# File konfigurasi editor & IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
